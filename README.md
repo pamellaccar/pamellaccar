@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pamellaccar
-- 👀 I’m a chemist and master's student in physical-chemistry interested in theoretical chemistry and computational methods.
+- 👀 I’m a chemist and master's student in physical-chemistry at UNICAMP (Brazil). I'm interested in theoretical chemistry and computational methods.
 My experience is with Molecular Dynamics, Docking and QSAR Studies. 
 - 🌱 I’m currently learning Julia and Python for biomolecules analysis.
 - 📫 You can reach me on twitter @pamellachem and e-mail: pamellaccarneiro@gmail.com.
